@@ -4,4 +4,8 @@ version = "0.1.0"
 authors = ["cspinetta <cebs91@gmail.com>"]
 edition = "2018"
 
+[lib]
+crate-type = ["cdylib"]
+
 [dependencies]
+sha1 = "0.6"
