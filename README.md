@@ -1,5 +1,5 @@
 # rust-wasm-example
-Trying to implemente a solution for this great rust workshop: https://docs.google.com/presentation/d/1UUjkxkfTXbmbUFZhgJsvEoNPSHTgNiRjhJTn4htyi8c
+A solution for the following rust workshop: https://docs.google.com/presentation/d/1UUjkxkfTXbmbUFZhgJsvEoNPSHTgNiRjhJTn4htyi8c
 
 ### Dependencies
 * Rust nightly with WebAssembly ([how-to](https://www.hellorust.com/news/native-wasm-target.html))
